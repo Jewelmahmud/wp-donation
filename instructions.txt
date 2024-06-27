@@ -1,0 +1,8 @@
+Example site:
+    https://www.planinternational.nl/investeer-in-meisjes
+    https://www.cliniclowns.nl/steun-ons/doneren/doneer
+
+Basic Instructions:
+-------------------
+    We need to be able to add the donation section to the header on the homepage. There should be an option to choose between text with a button or a donation, so there is a choice available.
+    On the donation page, in the red section, the donation option should also be available, so there is a choice between text or donation.
